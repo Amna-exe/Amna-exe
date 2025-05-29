@@ -10,10 +10,7 @@ I'm a 2nd year Software Engineering Student.
 - OOP
 
 
-<br><br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzd1Z29mM3VxMmY0cGVmaWZsb3RoMWFmcDNhZWw4ZjV5dTlveDcwaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="175"/>
-</div>
+
 
 
 <br><br>
