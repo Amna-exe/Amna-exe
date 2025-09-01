@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Amna
 
-I'm a 2nd year Software Engineering Student. 
+Software Engineering student who enjoys working on tech projects, especially databases and app development.  I love exploring new tools and learning through hands-on work. Outside of academics, I like collaborating with people, sharing ideas, and being part of creative projects.
 
 ## 🚀 Skills
 - Python
