@@ -8,6 +8,8 @@ Software Engineering student who enjoys working on tech projects, especially dat
 - Java
 - Software Engineering Concepts
 - OOP
+- Html/CSS
+- 
 
 
 
